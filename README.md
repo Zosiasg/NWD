@@ -36,7 +36,7 @@ The project requires Visual Studio with C# components to be installed on a local
 
 ## Usage
 The usage is self-explanatory, as illustrated by this screenshot:
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/2022-05-20.png)
 
 ## Project Status
 Project is: _no longer being worked on_. 
