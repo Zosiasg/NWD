@@ -31,7 +31,7 @@ C# components used in the IDE. Depending on the type of project and its settings
 The algorithm does not require decomposing numbers into prime factors. Interestingly, the algorithm was not invented by Euclid, but by Eudoxus of Knidos, a Greek philosopher and mathematician.
 Euclid only included the algorithm in his work Elements. The date of the creation of the algorithm is around 300 BC. 
 Here comes the processing logic:
-![flow_diagram](./img/nwdschemat.png)
+![flow_diagram](./img/nwd_schemat.png)
 
 ## Setup
 The project requires Visual Studio with C# components to be installed on a local machine for compilation.
